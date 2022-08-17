@@ -9,7 +9,7 @@ use std::{io, process};
 
 fn gen_random_number() -> u8 {
     let n: u8 = rand::thread_rng().gen_range(0..50);
-    return n;
+    n
 }
 
 fn take_input() -> String {
