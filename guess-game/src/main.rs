@@ -1,4 +1,4 @@
-// Guess the game
+// Guess game
 // take input from user - done
 // parse the input - done
 // return if it matches the random number - done
